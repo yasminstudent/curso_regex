@@ -1,0 +1,24 @@
+Link github: https://github.com/cod3rcursos/curso-regex
+
+O que é uma expressão regular:
+- É um método formal de se especificar um padrão de texto
+- Serve para procurar dados específicos dentro de um texto. Ex: telefones
+
+Onde encontramos/usamos regex:
+- Linguagens de programação
+- Editores de texto
+- IDEs
+- Ferramentas de linha de comando
+
+Ferramentas online (buscar por "regex online" caso o link não seja mais válido):
+- https://regex101.com/
+
+Livros recomendados:
+- Expressões Regulares Cookbook
+- Expressões Regulares: Uma Abordagem Divertida
+
+Caso vocês não saibam muito sobre os terminais ou se tiverem dúvidas sobre o assunto, recomendo que deem uma olhada.
+
+Windows -> https://blog.cod3r.com.br/terminal-no-windows/
+
+Linux/Mac -> https://blog.cod3r.com.br/terminal-no-macos-e-linux/
